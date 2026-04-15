@@ -4,7 +4,7 @@
 
 The Employee Utilization Dashboard is an interactive Power BI solution designed to analyze workforce performance and optimize resource utilization. It provides insights into employee productivity, workload distribution, and efficiency, enabling data-driven decision-making for better workforce management.
 
-This project demonstrates how data visualization and analytics can be used to identify trends, improve planning, and enhance overall business performance.
+This project demonstrates how data visualization can transform raw data into meaningful insights that support business operations and planning.
 
 ---
 
@@ -35,7 +35,7 @@ This project demonstrates how data visualization and analytics can be used to id
 
 ## Screenshots
 
-https://github.com/NikhilaChandini/Powerbi-employee-dashboard/blob/7dc2b10d5c0941830f5cae144e57ec0604b39db5/Power%20Bi.pdf
+(Add your dashboard screenshots here)
 
 ---
 
@@ -49,4 +49,4 @@ https://github.com/NikhilaChandini/Powerbi-employee-dashboard/blob/7dc2b10d5c094
 
 ## Note
 
-This project demonstrates the use of Power BI to transform raw data into meaningful insights that support business decisions and improve organizational performance.
+Due to file size limitations, the Power BI (.pbix) file is not included in this repository. The screenshots above demonstrate the dashboard functionality and insights. The project can be shared upon request.
